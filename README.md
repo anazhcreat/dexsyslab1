@@ -1,4 +1,4 @@
-# dexyslab1
+# dexsyslab1
 1) Установить и настроить JDK и MAVEN
 2) Создать новый maven-проект в Intellij Idea
 3) Создать 3 класса - Application, House, Owner
